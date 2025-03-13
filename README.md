@@ -1,5 +1,5 @@
+![inbox_12038776_dbabda1e8f2d39e88b030173303b2724_Netflix](https://github.com/user-attachments/assets/9d552943-18c6-4a4e-a83c-874984389888)
 
-![download](https://github.com/user-attachments/assets/8f0db8e4-79f1-433b-b8df-d57be2f5b73d)
 
 # Netflix-dataset-analysis-python-
 
