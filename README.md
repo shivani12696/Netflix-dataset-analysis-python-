@@ -2,6 +2,7 @@
 
 
 # Netflix-dataset-analysis-python-
+Link to the dashboard:  https://public.tableau.com/views/netflix_17446522689770/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. 
 This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
